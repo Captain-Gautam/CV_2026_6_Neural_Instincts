@@ -24,9 +24,3 @@ This project evaluates online multi-object tracking on UAV videos using deep ReI
 - IDF1
 - IDSW
 
-## Build Report
-```bash
-cd Project_01/Report
-pdflatex -interaction=nonstopmode report_cv.tex
-pdflatex -interaction=nonstopmode report_cv.tex
-```
